@@ -1,0 +1,62 @@
+{
+  "radios": [
+    {
+      "id": "midiafm",
+      "name": "Rádio Mídia FM",
+      "stream_url": "https://stm1.voxhd.com.br:9320/stream",
+      "logo_url": "https://voxhdstore.com.br/uploads/logo_20261006_233835.png",
+      "background_url": "https://i.postimg.cc/tCLKxXBS/fundof.jpg",
+      "accent_color": "#f2f2f2",
+      "bg_tint_color": "#130505",
+      "bg_tint_opacity": 0.7,
+      "live_badge_text": "AO VIVO",
+      "live_badge_color": "#E53935",
+      "live_badge_icon_color": "#FFFFFF",
+      "enable_live_badge": true,
+      "enable_pulse_effects": true,
+      "enable_album_view": true,
+      "enable_album_art": true,
+      "enable_metadata": true,
+      "privacy_url": "https://midiafm.siteweb.net.br/",
+      "social_icons": [
+        {
+          "icon": "whatsapp",
+          "url": "https://wa.me/5519989715506"
+        },
+        {
+          "icon": "website",
+          "url": "https://midiafm.siteweb.net.br/"
+        }
+      ]
+    },
+    {
+      "id": "adoray",
+      "name": "Rádio Adoray FM",
+      "stream_url": "https://stm6.voxhd.com.br:13402/stream",
+      "logo_url": "https://voxhdstore.com.br/uploads/logo_85e3ddd0e5064b82e12dd1cde403c869.png",
+      "background_url": "https://i.postimg.cc/tTk1svyt/fundo.jpg",
+      "accent_color": "#eeeeee",
+      "bg_tint_color": "#222222",
+      "bg_tint_opacity": 0.7,
+      "live_badge_text": "AO VIVO",
+      "live_badge_color": "#E53935",
+      "live_badge_icon_color": "#FFFFFF",
+      "enable_live_badge": true,
+      "enable_pulse_effects": true,
+      "enable_album_view": true,
+      "enable_album_art": true,
+      "enable_metadata": true,
+      "privacy_url": "https://adorayfm.siteweb.net.br/politica.html",
+      "social_icons": [
+        {
+          "icon": "whatsapp",
+          "url": "https://wa.me/5519989715506"
+        },
+        {
+          "icon": "website",
+          "url": "https://adorayfm.siteweb.net.br/"
+        }
+      ]
+    }
+  ]
+}
